@@ -1,1 +1,3 @@
 This is the 1st file- a text file with . txt extension created in vim
+
+These are the 1st changes made to the txt file via vim......
